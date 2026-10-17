@@ -3,7 +3,7 @@
 An edge-ready, real-time Indian Sign Language (ISL) translator engineered for low latency, low resource overhead, and offline availability on standard consumer hardware.
 
 ### 🎥 Project Video (90 sec)
-[YouTube Link - Add your unlisted link here]
+[https://youtu.be/H_T1VUGVXag?si=EyWa1SPkKzb_kRVc]
 
 ---
 
